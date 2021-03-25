@@ -117,7 +117,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adam Fisk (Brave New Software Project, Inc)
 1. Adam H. Leventhal
 1. Adam Jackson (X.org, Fedora)
-1. Adam W. Meek
 1. Adam Katz (17y FSF associate membership canceled due to this)
 1. Adam Miller (Ansible, Fedora)
 1. Adam Monsen (SeaGL co-founder)
@@ -135,7 +134,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adrian Cochrane
 1. Adrián María Mora Carreto
 1. Adrián Pérez de Castro
-1. Adrian Wyssmann
 1. Adrienne L. Travis
 1. Adrien Plazas (GNOME)
 1. Adrien "PulkoMandy" Destugues
@@ -409,6 +407,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
 1. Bryce A. Lynch (Director, R&D, Virtual Adept Networks)
 1. Burak Sezer
+1. Burny Boi (Glowers Club member)
 1. Byron Lagrone
 1. c47
 1. Cadence Ember
@@ -494,6 +493,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christian Brunschen
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
+1. Christian Grobmeier (Open Source Contributor and author of _The Zen Programmer_)
 1. Christian “haseHH” Hase
 1. Christian Heimes (Python)
 1. Christian Hergert (GNOME)
@@ -809,7 +809,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Evan Brown
 1. Evan Colvin
 1. Evangelos Paterakis
-1. Evangelos Ribeiro Tzaras
+1. Evnagelos Ribeiro Tzaras
 1. Evan Hirsh
 1. Evan Hunt (BIND maintainer, ISC)
 1. Evan Prodromou
@@ -1197,7 +1197,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. John Helmert III (Gentoo developer)
 1. John Hess
 1. John Krug (jhkrug)
-1. John L. Cooper
 1. John Molakvoæ (skjnldsv)
 1. Johnny Danger Myers
 1. John Reese (The Omnilib Project)
@@ -1227,7 +1226,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joni Carr
 1. Jon Langseth
 1. Jonny Spicer
-1. Joop Kiefte (@lapingvino)
 1. Jordan Hefcart
 1. Jordan Petridis (GNOME)
 1. Jordan T. Thevenow-Harrison
@@ -1237,7 +1235,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jordi Mas (GNOME)
 1. Jordin McEachern
 1. Jorge Acero
-1. Jorge Castro (Kubernetes SIG ContribEx, Chair Emeritus)
 1. Jorge Gaspar Sanz Salinas
 1. Jorge Jara
 1. Jörgen Lundman (OpenZFS)
@@ -1468,7 +1465,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lupe Canaviri
 1. Lup Yuen Lee
 1. Lux Amelia Phifollen
-1. Lux Miranda (they/them, University of Central Florida)
 1. Lyre Calliope
 1. Maarten Beeckmans
 1. Maarten Dirkse
@@ -1523,7 +1519,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mark Paluch
 1. Mark Tomko
 1. Markus Bohnensack
-1. Markus Joseph Kitsinger (`SwooshyCueb`; iRODS team)
 1. Markus `kmi` S. (Chaos Computer Club)
 1. Markus Unterwaditzer
 1. Marquis Kurt
@@ -1801,7 +1796,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
 1. Paul Aguilar (`penserbjorne` from LIDSOL)
 1. Paul Burdick
-1. Paul Collier
 1. Paul Cutler (former GNOME Foundation)
 1. Paul Fisher (Former FSF employee and union representative)
 1. Paulino Michelazzo (Founder Brazilian Drupal Association, PT-BR Drupal revisor, Pinguino de Honor)
@@ -2049,7 +2043,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean O'Brien
 1. seb1g
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
-1. Sebastian Spaeth (@spaetz)
 1. Sebastian Kügler (KDE)
 1. Sebastian Ramacher (Debian Developer)
 1. Sebastian Stauch (@sebidude)
@@ -2233,7 +2226,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tony Colston
 1. Tony Richards
 1. Tor Lillqvist (Collabora)
-1. tpdcl
 1. Tracie Fabb (Collabora)
 1. Tracy Hinds (Open Source Initiative Director)
 1. Travis Brown
